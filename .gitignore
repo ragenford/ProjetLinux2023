@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# utils 
+utils_v2.c
+utils_v2.h
